@@ -1,0 +1,550 @@
+body {
+    text-align:center;
+}
+#wrapper {
+    margin: 0 auto;
+    width: 900px;
+    text-align:left;
+}
+.gornja_crvena {
+	background-image:url(../images/gornja-crvena-linija.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 15px;
+	width: 900px;
+	position: relative;
+	
+	}	
+	
+	
+#okvir {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	width: 900px;
+	position: absolute;
+	height: auto;
+	margin-top: 0px;
+
+}
+
+.baner {
+	margin-top: 30px;
+	float: right;
+	margin-right: 250px;
+}
+.heder_slika1 {
+	background-image:url(../images/logo.png);
+	background-position:left;
+	background-repeat: no-repeat;
+	height: 131px;
+	width: 321px;
+	position: absolute;
+	margin-top: -15px;
+	margin-left: 20px;
+}
+
+.heder_slika2 {
+	background-image:url(../images/linkici2.png);
+	background-repeat: no-repeat;
+	height: 50px;
+	width: 145px;
+	position: absolute;
+	margin-top: 5px;
+	margin-left: 700px;
+}
+
+.hed_tekst a:link {
+	color: #999999;
+}
+.hed_tekst a:visited {
+	color: #999999;
+}
+.hed_tekst a:hover {
+	color: #666666;
+	text-decoration: underline;
+}
+.hed_tekst a:active {
+	color: #999999;
+}
+
+.hed_tekst {
+	margin-top: 36px;
+	position: relative;
+	color: #999999;
+	font-size: 12px;
+}
+
+
+
+
+
+#levo {
+	background-image: url(../images/kucica.jpg);
+	background-repeat: no-repeat;
+	height: 337px;
+	width: 224px;
+	position: absolute;
+
+}
+.levo_tekst {
+	margin-top: 60px;
+	margin-left: 30px;
+
+}
+
+#sredina {
+	height: 565px;
+	width: 900px;
+	margin-top: 148px;
+	position: absolute;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FFFFFF;
+	background-color: #F7F7F7;
+}
+
+
+
+#sredina a:link {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+#sredina a:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+#sredina a:hover {
+	text-decoration: underline;
+	color:#FFFFFF;
+}
+#sredina a:active {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+
+
+
+
+
+#sredina2 {
+	height: 935px;
+	width: 900px;
+	margin-top: 148px;
+	position: absolute;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FFFFFF;
+	background-color: #F7F7F7;
+}
+
+
+
+#sredina2 a:link {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+#sredina2 a:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+#sredina2 a:hover {
+	text-decoration: underline;
+	color:#FFFFFF;
+}
+#sredina2 a:active {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ljub_dugme {
+	background-image: url(../images/ljubicasta-kocka.jpg);
+	background-repeat: no-repeat;
+	height: 111px;
+	width: 111px;
+	position: absolute;
+	margin-top: 2px;
+	margin-left: 565px;
+}
+
+.nar_dugme {
+	background-image: url(../images/narandzasta-kocka.jpg);
+	background-repeat: no-repeat;
+	height: 111px;
+	width: 111px;
+	position: absolute;
+	margin-top: 340px;
+	margin-left: 0px;
+}
+
+.zel_dugme {
+	background-image: url(../images/zelena-kocka.jpg);
+	background-repeat: no-repeat;
+	height: 111px;
+	width: 111px;
+	position: absolute;
+	margin-top: 340px;
+	margin-left: 113px;
+}
+
+.roze_dugme {
+	background-image: url(../images/roze-kocka.jpg);
+	background-repeat: no-repeat;
+	height: 111px;
+	width: 111px;
+	position: absolute;
+	margin-top: 454px;
+	margin-left: 0px;
+}
+
+.plavo_dugme{
+	background-image: url(../images/plava-kocka.jpg);
+	background-repeat: no-repeat;
+	height: 111px;
+	width: 111px;
+	position: absolute;
+	margin-top: 454px;
+	margin-left: 113px;
+}
+
+
+#gtekst {
+	margin-top: 50px;
+	margin-left: 0px;
+	font-size:18px;
+	text-align:center;
+}
+
+#dtekst {
+	margin-top: 20px;
+	margin-left: 30px;
+}
+#gtekst2 {
+	margin-top: 50px;
+	margin-left: 0px;
+	font-size:18px;
+	text-align:center;
+}
+#dtekst2 {
+	margin-top: 10px;
+	margin-left: 30px;
+}
+
+
+#desni_tekst {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #666666;
+	width: 300px;
+	position: absolute;
+	height: auto;
+	margin-top: 20px;
+	margin-left: 250px;
+	text-align: justify;
+
+}
+
+#desni_tekst2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #666666;
+	width: 300px;
+	position: absolute;
+	height: auto;
+	margin-top: 20px;
+	margin-left: 250px;
+	text-align: left;
+
+}
+
+#levi_tekst {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #666666;
+	width: 300px;
+	position: absolute;
+	height: auto;
+	margin-top: 20px;
+	margin-left: 630px;
+	text-align: justify;
+	left: 2px;
+
+}
+#levi_tekst5 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #666666;
+	width: 300px;
+	position: absolute;
+	height: auto;
+	margin-top: 20px;
+	margin-left: 570px;
+	text-align: justify;
+	left: 2px;
+
+}
+
+#levi_tekst2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #666666;
+	width: 300px;
+	position: absolute;
+	height: auto;
+	margin-top: 20px;
+	margin-left: 570px;
+	text-align: left;
+	left: 2px;
+
+}
+
+.forma_sredina2 {
+	text-align: left;
+	height: auto;
+	margin-left: 300px;
+	
+}
+
+.forma_sredina2.form {
+	text-align: left;
+	height: auto;
+	margin-left: 0px;
+	
+}
+
+.forma_sredina {
+	text-align: left;
+	height: auto;
+	margin-left: 0px;
+	
+}
+
+.forma_sredina.form {
+	text-align: left;
+	height: auto;
+	margin-left: 0px;
+	
+}
+
+
+
+.forma {
+	text-align: left;
+	height: auto;
+	margin-left: -90px;
+	
+}
+
+.forma2 {
+	text-align: left;
+	height: auto;
+	margin-left: 50px;
+	
+}
+
+.forma5 {
+	text-align: left;
+	height: auto;
+	margin-left: 0px;
+	
+}
+.forma5.form {
+	text-align: left;
+	height: auto;
+	margin-left: 0px;
+	
+}
+.forma5.form.label {
+    text-align: left;
+}
+
+.forma6 {
+	text-align: left;
+	height: auto;
+	margin-left: 150px;
+	
+}
+
+form {
+	width: 75%;
+	font-size:12px;
+	margin: 0 auto;
+}
+
+label, input {
+    /* in order to define widths */
+    display: inline-block;
+	font-size:12px;
+	
+}
+
+label {
+    width: 30%;
+    /* positions the label text beside the input */
+    text-align: right;
+}
+
+label + input {
+    width: 50%;
+	font-size:12px;
+}
+
+.posalji2, posalji2.select{
+	float:right;
+	margin-top:5px;
+	margin-right:50px;
+	
+	}
+
+.posalji, select{
+	float:right;
+	margin-top:5px;
+	margin-right:35px;
+	}
+
+
+.tekst_crta {
+	position: absolute;
+	margin-top: 20px;
+	margin-left: 620px;
+	height: 520px;
+	width: 1px;
+	background-image: url(../images/crta-za-tekst.jpg);
+	background-repeat: repeat;
+	background-color: #999;
+
+}
+.tekst_crta5 {
+	position: absolute;
+	margin-top: 20px;
+	margin-left: 560px;
+	height: 520px;
+	width: 1px;
+	background-image: url(../images/crta-za-tekst.jpg);
+	background-repeat: repeat;
+	background-color: #999;
+
+}
+
+
+#footer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	position: absolute;
+	height: auto;
+	width: 900px;
+	margin-top: 742px;
+	text-align: center;
+	color: #333333;
+}
+
+#footer a:link {
+	text-decoration: none;
+	color: #333333;
+}
+#footer a:visited {
+	text-decoration: none;
+	color: #333333;
+}
+#footer a:hover {
+	text-decoration: underline;
+	color:#999999;
+}
+#footer a:active {
+	text-decoration: none;
+	color: #333333;
+}
+
+
+
+
+.donja_crvena {
+	background-image:url(../images/donja-crvena-linija.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 15px;
+	width: 900px;
+	position: absolute;
+	margin-top: 762px;
+	
+	}	
+
+
+
+
+
+
+#footer2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	position: absolute;
+	height: auto;
+	width: 900px;
+	margin-top: 1112px;
+	text-align: center;
+	color: #999999;
+}
+
+#footer2 a:link {
+	text-decoration: none;
+	color: #333333;
+}
+#footer2 a:visited {
+	text-decoration: none;
+	color: #333333;
+}
+#footer2 a:hover {
+	text-decoration: underline;
+	color:#999999;
+}
+#footer2 a:active {
+	text-decoration: none;
+	color: #333333;
+}
+
+
+
+
+.donja_crvena2 {
+	background-image:url(../images/donja-crvena-linija.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 15px;
+	width: 900px;
+	position: absolute;
+	margin-top: 1132px;
+	
+	}	
